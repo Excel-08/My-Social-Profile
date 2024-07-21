@@ -50,5 +50,6 @@ button{
 @media screen and (max-width:400px) {
     .sub{
         width: 240px;
+        height: 60%;
     }
 }
